@@ -1,0 +1,17 @@
+{
+    "name": "teledini/xmpp-prebind",
+    "description": "XMPP Prebind library",
+    "type": "library",
+    "require": {
+        "pear/auth_sasl": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "test test",
+            "email": "test@example.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "XmppPrebind": "" }
+    }
+}
